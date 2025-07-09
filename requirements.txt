@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+torch
+scikit-learn
+matplotlib
+seaborn
+dash
+gunicorn
+altair<5
+wordcloud
